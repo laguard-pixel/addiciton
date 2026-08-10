@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/p5@2.3.2/lib/p5.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5.sound@0.4.1/dist/p5.sound.min.js"></script>
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+
+    <header>
+    <h1 id="title">Addiction</h1>
+    </header>
+
+    <nav>
+    <a href="#what">What?</a>
+    <a href="#cause">Causes</a>
+    <a href="#twolineheader">Problems</a>
+    <a href="#preventions">Solutions</a>
+    </nav>
+
+    <p id="summary">This Article shows what addiction is, the causes and effects of
+it, the problems with it, and what can be done to prevent it.</p>
+
+    <h2 class="square">What Is An Addiction?</h2>
+
+    <br>
+    <br>
+    <br>
+    
+    <p id="what" class= "lefttext">An addiction is a compulsive need to complete an action or use something. You can be addicted to abusing substances, such as drugs, alcohol, smoking, and sugar. You can also be addicted to doing certain behaviors, such as gambling, shopping, or playing video games. Any type of addiction can prove to be harmful to one’s physical or mental state. Anyone and everyone can suffer from an addiction.</p>
+
+    <img class="leftimage" src="https://www.turnbridge.com/wp-content/uploads/2022/07/AdobeStock_244539544-scaled.jpeg" alt="drugs" width="325">
+
+    <p class="righttext">Here in New York City, the most common addictions are to
+abusing substances, mainly alcohol, crack and cocaine,
+cannabis, and opioids. (most especially fentanyl and heroin) The borough that has the most overdose deaths is the Bronx with 723 followed by Manhattan with 529 deaths with Brooklyn with 509 deaths.</p>
+    <div class= "threeimages">
+    <img src="https://technoidinc.com/cdn/shop/articles/Master_Gaming_PC_Setup_-_Tips_for_Beginners.webp?v=1733755955" alt="gaming" width="300">
+    <img src="https://www.visitgainesville.com/wp-content/uploads/Shopping-in-the-middle-of-it-all-Stock_206028153.jpg" alt="shopping" width="275">
+      <img src="https://onlinedegrees.unr.edu/blog/media_1d127ba649dabd61c71738e770f03afd62952b499.jpg?width=750&format=jpg&optimize=medium" alt= "gambling" width="300">
+      </div>
+
+    <p class="centertext">The most common behavioral addictions for New York City residents is gambling, technology use, and compulsive shopping. (digital and physical). </p>
+
+    <br>
+    <br>
+    <br>    
+        <h2 id="cause" class="square">Common Causes</h2>
+    <br>
+    <br>
+    <br>
+    <p class="lefttext">There are many reasons/causes for addiction but the most common causes are usually from strong emotional feelings such as having fear or guilt, like having an intense argument as an example.</p>
+    <img class="leftimage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQFrj77NyEf0hMciwIwl3uTeEnNqJsPKDI7f-yMPhlQ&s=10" alt="dopamine" width="225">
+    <p class="righttext">Another common reason as to why an addiction starts is because of a hormone called dopamine which is usually released whenever you, the person, is happy, feeling good, or being rewarded for something.</p>
+    <br>
+    <br>
+    <br>    
+        <h2 id="twolineheader" class="square">The Short And Long Term Problems</h2>
+    <br>
+    <br>
+    <br>
+    <p class="lefttext">Although addiction can be seen as something not needing to be dealt with immediately, the long term causes are far from being good for the person’s mental health. Some short term problems with addiction can be getting easily distracted from what you’re addicted to and not being able to clearly focus on any other task.</p>
+    <img class="leftimage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrCOP5eQDqHCjBhbW_rBeNdzTOgmZRmB7vMMd--mMPsA4K46NTr2w46EQ&s=10" alt="depression" width="300">
+    <p class="righttext">Short terms problems from addictions can be physical, such as breathing, heart rate issues, overdoses from substances, or mental, such as issues with focusing, depression, mood swings, and anxiety.</p>
+    <img class="rightimage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFyAvhySenyrjAdWdl3Sfl6JhLESCDdhB5upCZkP1AjPPtO7Rp7PLoI8v&s=10" alt="addiction" width="325">
+    <p class="lefttext">Some long term problems with addiction are usually not wanting to stop(and/or quit) what you’re addicted to, usually causing major anxiety to kick in once stop doing such addiction, making the person rely on that addiction to keep them happy or busy.</p>
+    <br>
+    <br>
+    <br>    
+        <h2 id="preventions" class="square">What You Can Do To Stop It</h2>
+    <br>
+    <br>
+    <br>
+    <p class="lefttext">Seek medical help by calling a hotline number that can help with addiction. If you are someone you know of that are dealing with addiction problems, call or text 988 Suicide & Crisis to connect with the Suicide and Crisis Hotline. You can also talk to doctors as they are aware of the addiction problems and can provide medical treatments if the symptoms get worse</p>
+    <img class="leftimage" src="https://images.everydayhealth.com/images/emotional-health/how-to-find-a-therapist-who-understands-my-black-identity-1440x810.jpg" alt="therapy" width="325">
+    <p class="righttext">Use your time wisely and instead of focusing on the addiction habits like smoking or gaming, talk to a family member and have walks. Walking is one of the common ways to help with an addiction since it’s a way to calm your mind with nature.</p>
+    <img class="rightimage" src="https://static.toiimg.com/thumb/msid-115739610,width-400,resizemode-4/115739610.jpg" alt="walking" width="325">
+    <p class="lefttext">If your family or friends have noticed your negative changes and called it out, do not deny it. There are people that can get affected by someone who is addicted, and listening to them can help prevent your own addictions and improve your social health.</p>
+    <img class="leftimage" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Staples_High_School%2C_Westport%2C_CT.jpg" alt="school" width="275">
+    <p class="righttext">You can attend education programs to help with addictions. If you start thinking about your careers, keep thinking about it since it is a great way to distract your minds from addictions and boost your hope a little bit higher. When you are in school and attempting to accomplish something good, you can have pride in yourself and the beginning of changing to a better person. If you have school friends that does not have a healthy behaviour, think of changing friends because they can peer pressure you in school to into addictions which is bad for you if you are trying to avoid addiction or getting bad grades.</p>
+<footer> 
+  <h3>Learn more about addictions with two other websites that are made by professionals:</h3> 
+  <ul> 
+    <li><a href="https://www.samhsa.gov/" target="_blank">SAMHSA</a></li> 
+    <li><a href="https://oasas.ny.gov/" target="_blank">Office of Addiction Services and Supports</a></li> 
+    <li><a href= "https://www.snpnyc.org/" target="_blank">Office of the special Narcotics prosecutor for the city of New York</a></li>
+  </ul> 
+
+  <p>Call 988 Lifeline if you need to be in touch with someone who can help you. They make sure that anyone who is struggling is not alone.</p>
+<a href="https://988lifeline.org/" target="_blank"> 988 Suicide & Crisis Lifeline</a>
+</footer>
+    
+  </body>
+</html>
