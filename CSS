@@ -81,7 +81,8 @@ h2{
 }
 
 .threeimages {
-  padding-left: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
   display: flex;
   flex-wrap: nowrap;
 }
